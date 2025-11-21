@@ -1,0 +1,9 @@
+Resistance: 0.857 ohm, Power: 42.000 W
+Current: 4.000 A, Power: 160.000 W
+Voltage: 700.000 V, Power: 24500.000 W
+Voltage: 6.000 V, Power: 12.000 W
+Current: 0.750 A, Power: 2.250 W
+Resistance: 0.500 ohm, Power: 8.000 W
+Voltage: 8.000 V, Power: 16.000 W
+Current: 0.500 A, Power: 1.000 W
+Resistance: 1.333 ohm, Power: 12.000 W
